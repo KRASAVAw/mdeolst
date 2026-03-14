@@ -1,12 +1,12 @@
-import React from 'react';
+﻿import React from 'react';
 import { Search, ArrowRight, ArrowUpRight, Plus, Facebook, Linkedin, Instagram, Twitter } from 'lucide-react';
-import auraImg1 from 'figma:asset/b5cc5a0e542521c9eefda03e277d90b56ed64a90.png';
-import auraImg2 from 'figma:asset/c1cd1754a88bb62b11bae006514f3e1adabc4912.png';
-import finTrackImg from 'figma:asset/154e327b2632b7c288494009746f7d62c17dafad.png';
-import imgWireframe from 'figma:asset/1f2d95e615aba67f5ffca5f5c830a7de792c2e74.png';
-import imgHeatmap from 'figma:asset/2db67576c06a327b12cb810ec63d596aba79db3f.png';
-import imgUserFlow from 'figma:asset/09350f0acc18be67d4320d6b91228c28cf4029bc.png';
-import imgTeam from 'figma:asset/66336f229dba131c4d2da8e7535c361d13485d6a.png';
+import auraImg1 from '../assets/b5cc5a0e542521c9eefda03e277d90b56ed64a90.png';
+import auraImg2 from '../assets/c1cd1754a88bb62b11bae006514f3e1adabc4912.png';
+import finTrackImg from '../assets/154e327b2632b7c288494009746f7d62c17dafad.png';
+import imgWireframe from '../assets/1f2d95e615aba67f5ffca5f5c830a7de792c2e74.png';
+import imgHeatmap from '../assets/2db67576c06a327b12cb810ec63d596aba79db3f.png';
+import imgUserFlow from '../assets/09350f0acc18be67d4320d6b91228c28cf4029bc.png';
+import imgTeam from '../assets/66336f229dba131c4d2da8e7535c361d13485d6a.png';
 
 const avatar1 = "https://images.unsplash.com/photo-1622812947502-0a643f17387e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzbWlsaW5nJTIwbWFuJTIwcG9ydHJhaXR8ZW58MXx8fHwxNzczNDc1OTg5fDA&ixlib=rb-4.1.0&q=80&w=200";
 const avatar2 = "https://images.unsplash.com/photo-1594318223885-20dc4b889f9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzbWlsaW5nJTIwd29tYW4lMjBwb3J0cmFpdHxlbnwxfHx8fDE3NzM0NTU3MTB8MA&ixlib=rb-4.1.0&q=80&w=200";
